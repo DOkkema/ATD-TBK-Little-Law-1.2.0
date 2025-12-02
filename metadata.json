@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Little's Law Simulator - JS - 1.2.0",
+  "description": "An interactive simulation for students to practice and understand Little's Law (L = λW) by adjusting production parameters like cycle time, batch size, and setup time for three different products.",
+  "version": "1.2.0",
+  "requestFramePermissions": []
+}
